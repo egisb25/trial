@@ -1,0 +1,14 @@
+/Users/dev/Projects/NewView/NewView/bin/Debug/netstandard2.0/NewView.deps.json
+/Users/dev/Projects/NewView/NewView/bin/Debug/netstandard2.0/NewView.dll
+/Users/dev/Projects/NewView/NewView/bin/Debug/netstandard2.0/ref/NewView.dll
+/Users/dev/Projects/NewView/NewView/bin/Debug/netstandard2.0/NewView.pdb
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/SecondPagee.xaml.g.cs
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/NewView.AssemblyInfoInputs.cache
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/NewView.AssemblyInfo.cs
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/NewView.csproj.CoreCompileInputs.cache
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/NewView.dll
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/ref/NewView.dll
+/Users/dev/Projects/NewView/NewView/obj/Debug/netstandard2.0/NewView.pdb
