@@ -11,6 +11,7 @@ namespace egitrial
         public App()
         {
             InitializeComponent();
+            Plugin.Media.CrossMedia.Current.Initialize();
             FolderPath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData));
             MainPage = new NavigationPage(new NotesPage());
         }
