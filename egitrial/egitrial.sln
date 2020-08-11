@@ -8,12 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "egitrial", "egitrial\egitrial.csproj", "{03C08121-8818-4435-9767-8ECB5A7743E4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{998DEFC2-61CB-410C-BA89-F9129A4A381D}"
-	ProjectSection(SolutionItems) = preProject
-		NoteEntryPage.xaml = NoteEntryPage.xaml
-		NoteEntryPage.xaml.cs = NoteEntryPage.xaml.cs
-		NotesPage.xaml = NotesPage.xaml
-		NotesPage.xaml.cs = NotesPage.xaml.cs
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
